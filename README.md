@@ -3,6 +3,7 @@ This E-commerce application is coded using ReactJS. You can add products to cart
 You can view the code inside the src folder. The App.js is the main file and the components are inside the components folder.
 You can download the code and run it on your local machine.
 use : npm install followed by npm start
+To load the local json server, cd inside the folder and run: "json-server public/db.json --port 8000".
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
