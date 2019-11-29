@@ -1,3 +1,9 @@
+This E-commerce application is build using ReactJS. You can add products to cart, remove them, check the total price, filter the products based on their price and you can also sort them based on available sizes.
+
+You can view the code inside the src folder. The App.js is the main file and the components are inside the components folder.
+You can download the code and run it on your local machine.
+use : npm install followed by npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
